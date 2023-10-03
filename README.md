@@ -1,6 +1,6 @@
 # Project-7-Earthquake-prediction-model-using-python
 # Phase 1: Problem Definition and Design Thinking
-# Problem Definition:#
+# Problem Definition:
 The problem at hand involves developing an earthquake prediction model utilizing a Kaggle dataset. The primary objective encompasses exploring and comprehending the vital features of earthquake data, creating a global overview through data visualization on a world map, dividing the data for both training and testing purposes, and constructing a neural network model for predicting earthquake magnitudes based on the provided features.
 
 # Design Thinking:
