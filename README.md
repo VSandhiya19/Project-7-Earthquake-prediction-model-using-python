@@ -1,0 +1,1 @@
+# Project-7-Earthquake-prediction-model-using-python
